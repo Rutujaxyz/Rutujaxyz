@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm **Rutujaxyz**, a passionate full-stack developer who loves building seamless web applications. Welcome to my GitHub profile!
+I'm **Rutuja**, a passionate full-stack developer who loves building seamless web applications. Welcome to my GitHub profile!
 
 ## 🔭 Currently Working On
 - Developing a full-stack e-commerce application using React and Node.js.
