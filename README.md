@@ -20,9 +20,6 @@ I'm **Rutuja**, a passionate full-stack developer who loves building seamless we
 - Developing a full-stack e-commerce application using React and Node.js.
 - Exploring cloud services to enhance application deployment and scalability.
 
-## 🌱 Currently Learning
-- Docker for containerization and streamlined development.
-
 ## 👯 Looking to Collaborate On
 - Open-source projects related to web development and design.
 - Innovative ideas in user experience and interface design.
