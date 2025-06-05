@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm **Rutuja**, a passionate full-stack developer who loves building seamless web applications. Welcome to my GitHub profile!
 
-## 🔭 Currently Working On
-- Developing a full-stack e-commerce application using React and Node.js.
-- Exploring cloud services to enhance application deployment and scalability.
-
 ## 👯 Looking to Collaborate On
 - Open-source projects related to web development and design.
 - Innovative ideas in user experience and interface design.
